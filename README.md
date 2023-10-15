@@ -1,5 +1,3 @@
-# Hello!!!
-## Wel come
 <header>
 
 <!--
@@ -22,10 +20,21 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
+# This is an H1 header.
+
+## This is an H2 header.
+
+### This is an H3 header.
+
+#### This is an H4 header.
+
+##### This is an H5 header.
+
+###### This is an H6 header.
 
 ## Step 1: Add headers
 
-_Welcome to "Communicate using Markdown"! :wave:_
+ # _Welcome to "Communicate using Markdown"! :wave:_
 
 **What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
 
